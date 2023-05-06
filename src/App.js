@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          PTI NYOBA PAKE VERCEL
         </a>
       </header>
     </div>
